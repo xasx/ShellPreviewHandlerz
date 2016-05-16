@@ -1,0 +1,1 @@
+ShellPreviewHandlerz/readme.md
