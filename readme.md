@@ -1,5 +1,8 @@
 ﻿# Preview Handlerz
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ofbwfnrw4n0gd4nq?svg=true)](https://ci.appveyor.com/project/xasx/shellpreviewhandlerz)
+
+
 Here you find some code for preview handlers (one) that are most commonly missed in
 Windows.
 
