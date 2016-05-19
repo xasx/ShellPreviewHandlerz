@@ -1,0 +1,6 @@
+{
+  "name": "ShellPreviewHandlerz",
+  "tagline": "A set of Shell Preview Handlers for use in Windows Explorer",
+  "body": "﻿# Preview Handlerz\r\n\r\n[![Build status](https://ci.appveyor.com/api/projects/status/ofbwfnrw4n0gd4nq?svg=true)](https://ci.appveyor.com/project/xasx/shellpreviewhandlerz)\r\n\r\n\r\nHere you find some code for preview handlers (one) that are most commonly missed in\r\nWindows.\r\n\r\n## Current status\r\n\r\nIncludes\r\n* Markdown Preview Handler, using [CommonMark.NET]\r\n\r\n## Development (blabla currently only)\r\n\r\nBy using C#, [SharpShell] and other popular libraries, this project should be based\r\non a solid foundation.\r\n\r\nContribute using usual GitHub fork-pr-model or issues.\r\n\r\n## Using\r\n\r\nFind documentation on how to install on the SharpShell GitHub pages, in particular\r\ninstallation via [srm].\r\n\r\nMore to come in time, especially installers etc.\r\n\r\n## More information\r\n\r\nNo warranties, as usual! :spy:\r\n\r\n[CommonMark.NET]: https://github.com/Knagis/CommonMark.NET\r\n[SharpShell]: https://github.com/dwmkerr/sharpshell\r\n[srm]: https://github.com/dwmkerr/sharpshell/wiki/srm:-Server-Registration-Manager\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
