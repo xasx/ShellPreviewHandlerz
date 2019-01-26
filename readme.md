@@ -1,4 +1,11 @@
-﻿# Preview Handlerz
+# Deprecation information
+
+While checking some of the links in this document, I eventually stumbled upon another [MarkdownPreview](https://github.com/Atrejoe/MarkdownPreview). Check it out, I did not maintain this one for ages - therefore,
+rather consider this deprecated.
+
+---
+
+# Preview Handlerz
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ofbwfnrw4n0gd4nq?svg=true)](https://ci.appveyor.com/project/xasx/shellpreviewhandlerz)
 
